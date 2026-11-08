@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Generated preprocessing output
+processed_output_data.csv
+
+# Local configuration and operating system files
+.env
+.streamlit/secrets.toml
+.DS_Store
